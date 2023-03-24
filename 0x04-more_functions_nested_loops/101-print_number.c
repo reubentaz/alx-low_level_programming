@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
- * print_number - prints an integer
- * @n: the integer to prints
+ * print_number - Prints an integer
+ * @n: The integer to be  printed
  * Return: Nothing!
  */
-void prime_number(int n)
+void print_number(int n)
 {
 	unsigned int k = n;
 
